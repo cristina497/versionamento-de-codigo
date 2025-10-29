@@ -1,0 +1,5 @@
+frase = input("digite uma mensagem:")
+string_maiuscla = frase .upper()
+print(string_maiusculo)
+print(string_minusculo = frase.lower()
+      print(string_minusculo)
